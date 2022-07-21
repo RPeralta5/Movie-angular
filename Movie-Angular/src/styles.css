@@ -1,10 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
 /* Application-wide Styles */
-h1 {
-  color: #990000;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 250%;
-}
 body {
   margin: 2em;
 }
@@ -38,3 +33,6 @@ button:disabled {
 * {
   font-family: Arial, Helvetica, sans-serif;
 }
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
